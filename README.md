@@ -7,7 +7,7 @@
 
 <br>
 
-<h3 align="center">Devops Tools:</h3>
+<h3 align="center"> Tools:</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
