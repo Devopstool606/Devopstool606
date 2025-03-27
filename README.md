@@ -26,4 +26,3 @@
     <br>— Mona the Octocat
 </blockquote>
 
-
