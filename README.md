@@ -20,3 +20,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </div>
+<br><br>
+<blockquote>
+    If we pull together and <b>commit ourselves</b>, then we can push through anything.
+    <br>— Mona the Octocat
+</blockquote>
+
+
